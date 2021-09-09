@@ -19,7 +19,7 @@
     "80/tcp": "HTTP Entrance port",
     "81/tcp": "Proxy management web interface",
     "443/tcp": "HTTPS/SSL Entrance port",
-    "7446/tcp: "Unifi Video WSS Port"
+    "7446/tcp": "Unifi Video WSS Port"
   },
   "map": ["ssl:rw", "backup:rw"],
   "schema": {
