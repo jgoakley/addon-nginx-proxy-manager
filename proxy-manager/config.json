@@ -13,7 +13,7 @@
     "80/tcp": 80,
     "81/tcp": 81,
     "443/tcp": 443,
-    "7446/tcp": 7446,
+    "7446/tcp": 7446
   },
   "ports_description": {
     "80/tcp": "HTTP Entrance port",
